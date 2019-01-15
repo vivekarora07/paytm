@@ -7,7 +7,7 @@
 
 1. MovingAverageLastNTest is Junit test class which tests different APIs provided in MovingAverageLastN service class
 
-2. IMovingAverageLastN expose public APIs of MovingAverageLastN to client MovingAverageLastNTest class
+2. Trait interface expose public APIs of MovingAverageLastN to client MovingAverageLastNTest class
 
 3.  MovingAverageLastN maintain sum of total elements of the moving list, all elements in the list and map of position of element as key and total sum of  elements upto the key element position
 
